@@ -139,18 +139,16 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "14dfa476cb28d0c8",
+  "active": "c8916935788be79e",
   "lastOpenFiles": [
+    "需求分析.md",
+    "绿管.md",
     "2025-11-21.md",
     "欢迎.md"
   ]
