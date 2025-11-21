@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "需求分析.md",
+                "file": "绿管平台/需求.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "需求分析"
+              "title": "需求"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绿管.md",
+                "file": "绿管平台/项目文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "绿管"
+              "title": "项目文档"
             }
           }
         ],
@@ -161,10 +161,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da835a3964104084",
+  "active": "c8916935788be79e",
   "lastOpenFiles": [
-    "需求分析.md",
-    "绿管.md",
+    "绿管平台/需求.md",
+    "绿管平台/项目文档.md",
+    "绿管平台",
     "欢迎.md",
     "2025-11-21.md"
   ]
