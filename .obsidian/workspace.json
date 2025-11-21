@@ -37,8 +37,7 @@
               "title": "项目文档"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绿管平台/项目文档.md",
+                "file": "绿管平台/需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目文档 的大纲"
+              "title": "需求 的大纲"
             }
           },
           {
@@ -161,10 +160,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da835a3964104084",
+  "active": "40f9c4b58fe9621f",
   "lastOpenFiles": [
-    "绿管平台/需求.md",
     "绿管平台/项目文档.md",
+    "绿管平台/需求.md",
     "绿管平台",
     "欢迎.md",
     "2025-11-21.md"
