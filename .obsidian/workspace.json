@@ -11,15 +11,10 @@
             "id": "52f6937badc6a7fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "测试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -145,7 +140,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "52f6937badc6a7fb",
+  "active": "c8916935788be79e",
   "lastOpenFiles": [
     "绿管平台/需求.md",
     "测试.md",
