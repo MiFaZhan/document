@@ -37,7 +37,8 @@
               "title": "绿管"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,10 +161,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c8916935788be79e",
+  "active": "da835a3964104084",
   "lastOpenFiles": [
-    "绿管.md",
     "需求分析.md",
+    "绿管.md",
     "欢迎.md",
     "2025-11-21.md"
   ]
