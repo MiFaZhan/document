@@ -11,10 +11,15 @@
             "id": "52f6937badc6a7fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "绿管平台/需求.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "需求"
             }
           }
         ]
@@ -140,10 +145,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c8916935788be79e",
+  "active": "52f6937badc6a7fb",
   "lastOpenFiles": [
-    "绿管平台/需求.md",
     "测试.md",
+    "绿管平台/需求.md",
     "绿管平台/项目文档.md",
     "绿管平台",
     "欢迎.md",
