@@ -45,7 +45,22 @@
               "state": {
                 "file": "绿管平台/项目关键点总结.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "项目关键点总结"
+            }
+          },
+          {
+            "id": "b5bfd2dd6ee64371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目关键点总结.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -176,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,11 +206,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b5be9c5111bb5938",
+  "active": "2f7504a337ad9a0f",
   "lastOpenFiles": [
+    "项目关键点总结.md",
     "绿管平台/项目关键点总结.md",
     "绿管平台/详细文档.md",
-    "绿管平台/项目关键点总结.md",
     "绿管平台/需求.md",
     "绿管平台/项目文档.md",
     "测试.md",
