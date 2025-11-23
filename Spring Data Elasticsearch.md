@@ -2,21 +2,21 @@
 
 ## 目录
 
-1. [环境准备](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
+1. 环境准备
     
-2. [项目配置](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE)
+2. 项目配置
     
-3. [实体类映射](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E5%AE%9E%E4%BD%93%E7%B1%BB%E6%98%A0%E5%B0%84)
+3. 实体类映射
     
-4. [Repository 接口](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#repository-%E6%8E%A5%E5%8F%A3)
+4. Repository 接口
     
-5. [服务层实现](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E6%9C%8D%E5%8A%A1%E5%B1%82%E5%AE%9E%E7%8E%B0)
+5. 服务层实现
     
-6. [高级查询示例](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E9%AB%98%E7%BA%A7%E6%9F%A5%E8%AF%A2%E7%A4%BA%E4%BE%8B)
+6. 高级查询示例
     
-7. [完整示例代码](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E5%AE%8C%E6%95%B4%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
+7. 完整示例代码
     
-8. [常见问题排查](https://yuanbao.tencent.com/chat/naQivTmsDa/d98d57fd-7471-4210-a98e-f55217525ff6#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5)
+8. 常见问题排查
 
 9. 文档：Spring Data Elasticsearch Repository 完整用法指南
 	- ElasticsearchRepository 所有内置方法
