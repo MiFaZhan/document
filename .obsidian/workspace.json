@@ -23,27 +23,12 @@
             }
           },
           {
-            "id": "7c792b6474b79fa6",
+            "id": "a1277ddb845ac3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Data Elasticsearch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring Data Elasticsearch"
-            }
-          },
-          {
-            "id": "f415b72ab0cf65c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONTROLLER_API_DOCUMENTATION.md",
+                "file": "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -51,54 +36,9 @@
               "icon": "lucide-file",
               "title": "CONTROLLER_API_DOCUMENTATION"
             }
-          },
-          {
-            "id": "b86bedc58ae1c50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "绿管平台/详细文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "详细文档"
-            }
-          },
-          {
-            "id": "93d1698b8985eb66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "绿管平台/项目文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "项目文档"
-            }
-          },
-          {
-            "id": "b8296509397990f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "绿管平台/需求.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "需求"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTROLLER_API_DOCUMENTATION.md",
+                "file": "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,12 +161,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f415b72ab0cf65c8",
+  "active": "2f7504a337ad9a0f",
   "lastOpenFiles": [
-    "Spring Data Elasticsearch.md",
-    "CONTROLLER_API_DOCUMENTATION.md",
-    "绿管平台/项目文档.md",
     "绿管平台/项目关键点总结.md",
+    "Spring Data Elasticsearch.md",
+    "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
+    "绿管平台/项目文档.md",
     "绿管平台/详细文档.md",
     "绿管平台/需求.md",
     "项目关键点总结.md",
