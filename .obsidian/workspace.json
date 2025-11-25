@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "994b706029080064",
@@ -110,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "绿色保单管理平台 - 项目模块详细梳理 的大纲"
             }
           },
           {
@@ -145,10 +146,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c8916935788be79e",
+  "active": "2f7504a337ad9a0f",
   "lastOpenFiles": [
-    "个人文件/Spring Data Elasticsearch.md",
     "未命名.md",
+    "个人文件/Spring Data Elasticsearch.md",
     "个人文件",
     "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
     "个人文件/详细文档.md",
