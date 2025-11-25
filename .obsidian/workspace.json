@@ -8,37 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5be9c5111bb5938",
+            "id": "6f350fa6015c9de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绿管平台/项目关键点总结.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "项目关键点总结"
-            }
-          },
-          {
-            "id": "a1277ddb845ac3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
+                "file": "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CONTROLLER_API_DOCUMENTATION"
+              "title": "绿色保单管理平台 - 项目模块详细梳理"
+            }
+          },
+          {
+            "id": "c0c7e23b579c1636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绿管平台/详细文档.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "详细文档"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "994b706029080064",
@@ -126,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
+                "file": "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CONTROLLER_API_DOCUMENTATION 的大纲"
+              "title": "绿色保单管理平台 - 项目模块详细梳理 的大纲"
             }
           },
           {
@@ -150,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +160,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2f7504a337ad9a0f",
+  "active": "c8916935788be79e",
   "lastOpenFiles": [
-    "绿管平台/项目关键点总结.md",
-    "Spring Data Elasticsearch.md",
+    "绿管平台/详细文档.md",
+    "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
     "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
     "绿管平台/项目文档.md",
-    "绿管平台/详细文档.md",
+    "绿管平台/项目关键点总结.md",
+    "Spring Data Elasticsearch.md",
     "绿管平台/需求.md",
     "项目关键点总结.md",
     "测试.md",

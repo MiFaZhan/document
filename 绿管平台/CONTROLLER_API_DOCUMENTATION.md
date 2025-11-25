@@ -314,9 +314,9 @@
 
 ### 新增方法
 
-| 方法名 | HTTP方法 | 路径 | 参数 | 返回类型 | 权限 |
-|--------|---------|------|------|----------|------|
-| `addSave` | POST | `/upload` | `@RequestParam("file") MultipartFile file`<br>`String remark` | `AjaxResult` | 无 |
+| 方法名       | HTTP方法 | 路径        | 参数                                                            | 返回类型         | 权限  |
+| --------- | ------ | --------- | ------------------------------------------------------------- | ------------ | --- |
+| `addSave` | POST   | `/upload` | `@RequestParam("file") MultipartFile file`<br>`String remark` | `AjaxResult` | 无   |
 
 ### 查询方法
 
