@@ -21,21 +21,6 @@
               "icon": "lucide-file",
               "title": "绿色保单管理平台 - 项目模块详细梳理"
             }
-          },
-          {
-            "id": "c0c7e23b579c1636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "详细文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "详细文档"
-            }
           }
         ]
       }
@@ -125,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "绿色保单管理平台 - 项目模块详细梳理 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -162,12 +147,14 @@
   },
   "active": "c8916935788be79e",
   "lastOpenFiles": [
-    "详细文档.md",
+    "个人文件/Spring Data Elasticsearch.md",
+    "未命名.md",
+    "个人文件",
     "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
+    "个人文件/详细文档.md",
     "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
     "绿管平台/项目文档.md",
     "绿管平台/项目关键点总结.md",
-    "Spring Data Elasticsearch.md",
     "绿管平台/需求.md",
     "项目关键点总结.md",
     "测试.md",
