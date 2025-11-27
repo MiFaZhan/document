@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f198c6fb3f425610",
+        "id": "e87c211ece2f035a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f350fa6015c9de3",
+            "id": "d05af349bfd7adc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +20,51 @@
               },
               "icon": "lucide-file",
               "title": "绿色保单管理平台 - 项目模块详细梳理"
+            }
+          },
+          {
+            "id": "f37dfdee8e0a8004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-26需求.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "11-26需求"
+            }
+          },
+          {
+            "id": "805bdbdd1593b49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绿管平台/项目关键点总结.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "项目关键点总结"
+            }
+          },
+          {
+            "id": "91139fd8574cd629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绿管平台/项目文档.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "项目文档"
             }
           }
         ]
@@ -79,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "994b706029080064",
@@ -148,14 +192,14 @@
   },
   "active": "2f7504a337ad9a0f",
   "lastOpenFiles": [
-    "未命名.md",
+    "绿管平台/项目关键点总结.md",
+    "11-26需求.md",
+    "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
+    "绿管平台/项目文档.md",
+    "个人文件/详细文档.md",
     "个人文件/Spring Data Elasticsearch.md",
     "个人文件",
-    "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
-    "个人文件/详细文档.md",
     "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
-    "绿管平台/项目文档.md",
-    "绿管平台/项目关键点总结.md",
     "绿管平台/需求.md",
     "项目关键点总结.md",
     "测试.md",
