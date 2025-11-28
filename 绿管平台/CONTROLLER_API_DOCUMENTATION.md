@@ -85,10 +85,10 @@
 
 ### 修改方法
 
-| 方法名 | HTTP方法 | 路径 | 参数 | 返回类型 | 权限 |
-|--------|---------|------|------|----------|------|
-| `editSave` | PUT | `/update` | `@RequestParam(value = "id") Long id`<br>`@RequestBody TbInsuranceClaimDTO tbInsuranceClaimDTO` | `R<TbInsuranceClaimVO>` | `@PreAuthorize("@ss.hasPermi('system:claim:update')")` |
-| `edit` | PUT | `/updateStatus` | `@RequestParam(value = "id") String claimCode`<br>`@RequestParam(value = "status") Integer status` | `R<Boolean>` | `@PreAuthorize("@ss.hasPermi('system:claim:update')")` |
+| 方法名        | HTTP方法 | 路径              | 参数                                                                                                 | 返回类型                    | 权限                                                     |
+| ---------- | ------ | --------------- | -------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
+| `editSave` | PUT    | `/update`       | `@RequestParam(value = "id") Long id`<br>`@RequestBody TbInsuranceClaimDTO tbInsuranceClaimDTO`    | `R<TbInsuranceClaimVO>` | `@PreAuthorize("@ss.hasPermi('system:claim:update')")` |
+| `edit`     | PUT    | `/updateStatus` | `@RequestParam(value = "id") String claimCode`<br>`@RequestParam(value = "status") Integer status` | `R<Boolean>`            | `@PreAuthorize("@ss.hasPermi('system:claim:update')")` |
 
 ---
 
