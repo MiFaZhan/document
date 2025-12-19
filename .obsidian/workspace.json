@@ -4,41 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7593bafbb25a95",
+        "id": "54818f70374813a5",
         "type": "tabs",
         "children": [
           {
-            "id": "628d169ee4e9c3b4",
+            "id": "7001ce02fcb7fee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-26需求.md",
+                "file": "12-17需求.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11-26需求"
+              "title": "12-17需求"
             }
           },
           {
-            "id": "bbcb3ccf0a8edcd5",
+            "id": "351ce4d26ead09dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-3需求.md",
+                "file": "TbInsuranceRepairController重构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-3需求"
+              "title": "TbInsuranceRepairController重构"
+            }
+          },
+          {
+            "id": "04d17479d0e9e053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-17需求测试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "12-17需求测试"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 282.5
   },
   "right": {
     "id": "994b706029080064",
@@ -126,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12-3需求.md",
+                "file": "12-17需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12-3需求 的大纲"
+              "title": "12-17需求 的大纲"
             }
           },
           {
@@ -161,8 +175,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bbcb3ccf0a8edcd5",
+  "active": "2f7504a337ad9a0f",
   "lastOpenFiles": [
+    "12-17需求测试.md",
+    "12-17需求.md",
+    "TbInsuranceRepairController重构.md",
+    "自定义分词器.md",
+    "未命名 1.md",
+    "assets/自定义分词器/file-20251218153850547.png",
+    "assets/自定义分词器",
+    "12-3需求.md",
+    "未命名.md",
+    "个人文件/Spring Data Elasticsearch.md",
+    "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
+    "绿管平台/项目关键点总结.md",
+    "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
+    "12-4需求.md",
+    "可能修改点.md",
+    "11-26需求.md",
     "assets/12-3需求/file-20251203153229365.png",
     "assets/12-3需求/file-20251203150801939.png",
     "assets/12-3需求/file-20251203150644419.png",
@@ -172,18 +202,9 @@
     "assets/12-3需求/file-20251203140426617.png",
     "assets/12-3需求",
     "assets",
-    "11-26需求.md",
-    "12-3需求.md",
-    "未命名.md",
     "测试.md",
     "断言.md",
-    "可能修改点.md",
-    "未命名 1.md",
-    "绿管平台/绿色保单管理平台 - 项目模块详细梳理.md",
-    "绿管平台/项目关键点总结.md",
     "绿管平台/项目文档.md",
-    "个人文件/Spring Data Elasticsearch.md",
-    "绿管平台/CONTROLLER_API_DOCUMENTATION.md",
     "个人文件/详细文档.md",
     "个人文件",
     "绿管平台/需求.md",
